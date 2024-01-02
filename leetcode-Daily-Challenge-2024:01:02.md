@@ -36,7 +36,7 @@ Solution:
 In this problem, it can be found that as we need to sperate this array num into several sub lists, and the number of each sub lists should be different from each other, hence, it can be concluded that the number of sublists should equal to the maximum repeated number of an element in array nums. hence, we can desgin our aggorithm as below
 
 (II)Algorithm design
-for each number in array nums, assume that this is the i^th time that it appears in the array nums, and check the size of the sublists of the lists , if we the size of the sublists >=i, then we add it to the i^th sublist of our result directily, otherwise, just add a new sublist to the result first, then add this number to this sublist. 
+for each number in array nums, assume that this is the i^th time that it appears in the array nums, and check the size of the sublists of the lists , if the size of the sublists >=i, then we add it to the i^th sublist of our result directily, otherwise, just add a new sublist to the result first, then add this number to this sublist. 
 
 (III)Code by Java
 class Solution {
