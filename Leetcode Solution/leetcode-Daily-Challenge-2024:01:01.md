@@ -1,5 +1,5 @@
 Leetcode 455(Daily-Challenge 2024/01/01)
-Probelem name:Assign Cookies
+Assign Cookies
 
 Author Simon Wang
 Email: dodomicc@outlook.com

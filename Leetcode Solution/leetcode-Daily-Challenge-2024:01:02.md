@@ -1,5 +1,5 @@
 Leetcode 2610(Daily-Challenge 2024/01/02) 
-Probelem name:Convert an Array Into a 2D Array With Conditions
+Convert an Array Into a 2D Array With Conditions
 
 Author Simon Wang
 Email: dodomicc@outlook.com
